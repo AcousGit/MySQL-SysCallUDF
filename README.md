@@ -3,7 +3,7 @@
 Mysyschar.cc is a User defined Function which allows users to execute system calls directly from MySQL clients.
 It works on LINUX based systems and was created for pentest (not for sys admin). 
 
-#Documentation:
+# Documentation
 [User's manual](https://github.com/AcousGit/MySQL-SysCallUDF/wiki "User's Manual")
 
 
