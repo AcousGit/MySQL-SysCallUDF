@@ -1,5 +1,6 @@
 # MySQL-SysCallUDF
-Mysyschar.cc is a User defined Function which allows users to execute system calls directly from MySQL clients. This UDF allows the attacker to see the answers of system calls.  
+Mysyschar.cc is a User defined Function which allows users to execute system calls directly from MySQL clients. This UDF allows the attacker to see the answers of system calls. 
+ 
 It works on LINUX based systems and was created for pentest (not for sys admin). 
 I code it after reading an article of Bernardo Damele about SQL injections. 
 
