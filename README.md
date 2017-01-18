@@ -1,9 +1,9 @@
 # MySQL-SysCallUDF
 
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
-!!!!!!!	THIS TOOL WAS CREATED FOR PENTEST NOT FOR SYS ADMIN. IT CAN BE VERY DANGEROUS TO USE IT !!!!!!!
-!!!!!!!					    FOR OTHER PURPOSE					!!!!!!!
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! WARNING !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!	THIS TOOL WAS CREATED FOR PENTEST NOT FOR SYS ADMIN. IT CAN BE VERY DANGEROUS TO USE IT !!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!                           					    FOR OTHER PURPOSE					                               !!!!!!!!!!!!!!!!!!!!!
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 Here we wanted to create a User defined Function which allows users to execute system calls directly from MySQL clients.
 !!! Warning it works only on LINUX based systems !!!
