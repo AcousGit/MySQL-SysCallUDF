@@ -10,5 +10,5 @@ I code it after reading an article of Bernardo Damele about SQL injections.
 # Download
 Download the zip file [here](https://github.com/AcousGit/MySQL-SysCallUDF/archive/master.zip "Download")
 
-Now if you want to use it for pentest read my article on SQLInjection (It Will Come Soon ^^). 
+Now if you want to use it for pentest read my article about SQL Injections (It Will Come Soon ^^). 
  
